@@ -1,2 +1,2 @@
-# gastric--tag2--expression
+# gastric--tag72--expression
 Sialyl-Tn (TAG-72) pathway gene expression in gastric cancer using public data.
